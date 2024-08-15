@@ -1,0 +1,143 @@
+.body {
+  margin: 0;
+  padding: 0;
+  font-family: "Open Sans", sans-serif;
+}
+
+.container {
+  width: 100%;
+  max-width: 1366px;
+  padding: 0 10px;
+  margin: 0 auto;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 100px;
+}
+
+ul {
+  display: flex;
+  list-style: none;
+  gap: 44px;
+  color: #111111;
+}
+
+li a {
+  color: #111111;
+  line-height: 21.79px;
+  font-size: 16px;
+}
+
+.btn {
+  background: #caa892;
+  border-radius: 15px 0px 15px 0px;
+  width: 97px;
+  height: 32px;
+  border-color: #caa892;
+  color: white;
+}
+
+.btn2 {
+  background: #37806b;
+  border-radius: 15px 0px 15px 0px;
+  width: 97px;
+  height: 32px;
+  border-color: #37806b;
+  color: white;
+}
+
+.main {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.mainimg {
+  width: 300px;
+  padding: 153px;
+}
+
+.box {
+  text-align: center;
+  width: 425px;
+  height: 193px;
+  border-radius: 60px 0px 60px 0px;
+  color: #212121;
+  background-color: #ffffff;
+  box-shadow: 0px 8px 20px 0px #00000024;
+}
+
+.box2 {
+  text-align: center;
+  width: 425px;
+  height: 193px;
+  border-radius: 60px 0px 60px 0px;
+  color: #212121;
+  background-color: #caa892;
+  box-shadow: 0px 8px 20px 0px #00000024;
+}
+
+.box-d-flex {
+  display: flex;
+  gap: 37px;
+}
+
+span {
+  color: #646464;
+}
+
+.img1 {
+  display: flex;
+  width: 681px;
+  height: 726px;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+
+.us {
+  text-align: end;
+}
+
+.years {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.header-20 {
+  font-size: 288px;
+  font-weight: 700;
+  line-height: 28px;
+  letter-spacing: -0.01em;
+  text-align: left;
+  color: #000000;
+}
+
+.years-2 {
+  font-size: 50px;
+  font-weight: 500;
+  line-height: 65px;
+  letter-spacing: 0.04em;
+  text-align: left;
+  color: #212121;
+}
+
+.box4 {
+  display: flex;
+  gap: 10px;
+  border-radius: 70px 0px 70px 0px;
+  box-shadow: 7px 7px 30px 5px #42605426;
+}
+
+.box-wrapper {
+  display: flex;
+  gap: 52px;
+}
+
+.testi{
+  text-align: center;
+}
+
